@@ -1,0 +1,1 @@
+# MongoDB-queries-to-Create-and-drop-databases-and-collections.
